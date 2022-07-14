@@ -43,7 +43,7 @@ For the payment the user can use test credit card:
   
 ## What I learned
 
-* Power of react.
+* More about react.
 * Creating authentication using firebase.
 * Creating card add remove item.
 * Creating payment with Stripe
