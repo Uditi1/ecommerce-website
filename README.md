@@ -1,4 +1,4 @@
-# Ecom -
+# Ecom - https://ecommerce-website-2f168.web.app
 
 A fully ecommerce website designed like amazon and myntra. It is created using react, firebase and stripe which allows the user to login,add products to cart and do the payment.
 
@@ -14,6 +14,7 @@ For the payment the user can use test credit card:
 1. Taking clone of project fom github
 
    ```bash
+   https://github.com/Uditi1/ecommerce-website.git
    ```
 
 2. cd to project folder
