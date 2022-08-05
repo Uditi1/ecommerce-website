@@ -1,0 +1,44 @@
+.checkout {
+        display: flex;
+        padding: 20px;
+        flex-direction: row;
+        background-color: white;
+        color: #1F363C;
+        height: max-content;
+  }
+  
+.checkout_ad  {
+        width: 100%;
+        margin-bottom: 10px;
+  }
+  
+.checkout_title {
+        margin-right: 10px;
+        padding: 10px;
+        border-bottom: 1px solid #f2f2f2;
+  }
+
+.checkout_right{
+        display: flex;
+}
+
+
+        /* Mobile Version */
+
+@media (max-width: 500px){
+
+        .checkout{
+                flex-direction: column;
+        }
+
+        .checkout_right{
+                justify-content: center;
+        }
+
+}
+ 
+
+    
+  
+
+
